@@ -1,7 +1,7 @@
 ---
-title: "Going forward?"
+title: "ward?"
 author: "Steven Roberts"
-date: "2023-02-17"
+date: "202s-02-17"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
