@@ -30,7 +30,7 @@
   {
     "objectID": "posts/how-about-this/index.html",
     "href": "posts/how-about-this/index.html",
-    "title": "Going forward",
+    "title": "Going forward?",
     "section": "",
     "text": "library(tidyverse)\nBismark + was done on Hyak.\nGenmome stats\nThere are 18268 scaffolds\nFirst thing I want to do is do a simple histogram showing distribution of methylation levels. This will likely be done by taking 10 bedgraphs and concatenating then, making a histogram.\nAfter that I would want to look at distribution across features.."
   }
