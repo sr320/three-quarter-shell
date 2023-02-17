@@ -6,7 +6,7 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-
+Here I start to examine the deep dive effort, looking first at the quality of the genome.. P verr.
 
 ```{r, message=FALSE}
 library(tidyverse)
